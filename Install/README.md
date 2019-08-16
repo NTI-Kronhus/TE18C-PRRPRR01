@@ -1,7 +1,6 @@
 ```markdown
 Följ stegen nedan i rätt ordning och var uppmärksam på detaljer
 ```
-
 ## Skapa konto på GitHub
 1. Skapa ett konto på GitHub <a href="https://github.com/join" target="_blank">här</a>.
 2. Maila sedan ditt fullständiga namn samt användarnamn på GitHub till: [are.ehnberg@ntig.se](mailto:are.ehnberg@ntig.se) <br> 
@@ -36,10 +35,18 @@ git config --global user.email "tomas.weis@ntig.se"
 1. Ladda hem och installera GitHub Desktop <a href="https://central.github.com/deployments/desktop/desktop/latest/win32" target="_blank">här</a>.
 2. Starta exe-filen så kör installationen sig självt.
 3. När installationen är klar, logga in med ditt GitHub-konto på GitHub Desktop.
-4. Du behöver nu skaffa dig ett så kallat repo, som är stället där alla din filer och kod hamnar.
-4. I GitHub Desktop navigera nu till inställningar <br>
+4. Du behöver nu skaffa dig ett så kallat repo, som är stället där alla dina filer och kod hamnar.
+
+![img](https://gyazo.com/399b549c039f52d5c2700a83fa142eff.png)
+
+5. Använd ditt användarnamn i GitHub för enkelhetens skull
+
+![img](https://gyazo.com/c81f15b5132f9cdeab0f742aef69c9c0.png)
+
+6. I GitHub Desktop navigera nu till inställnigar <br>
     *File->Options->Advanced* <br>
     och välj Git Bash i drop-down fältet för Shell.<br>
-![img](https://i.gyazo.com/5c14f9ab90a9a185c68e1fc4119a700c.png)
-5. För att det ska fungera felfritt måste du starta om din dator.
+![img](https://gyazo.com/d8e466e57d2a41b1ba39a6d74d2369fe.png)
+
+7. För att det ska fungera felfritt måste du starta om din dator.
 6. Klart! Nu kan du använda Git och GitHub Desktop på din dator.
