@@ -4,14 +4,14 @@ Följ stegen nedan i rätt ordning och var uppmärksam på detaljer
 
 ## Skapa konto på GitHub
 1. Skapa ett konto på GitHub <a href="https://github.com/join" target="_blank">här</a>.
-2. Maila sedan ditt fullständiga namn samt användarnamn på GitHub till: [tomas.weis@ntig.se](mailto:tomas.weis@ntig.se) <br> 
+2. Maila sedan ditt fullständiga namn samt användarnamn på GitHub till: [are.ehnberg@ntig.se](mailto:are.ehnberg@ntig.se) <br> 
   Sätt titeln på mailet till GitHub följt av namnet på din klass!
 
    Exempel:
    
 ```markdown
-Recipient: tomas.weis@ntig.se
-Subject: GitHub TE18D
+Recipient: are.ehnberg@ntig.se
+Subject: GitHub TE18C
 
 Namn: Tomas Weis
 Användarnamn: Deltadirac
@@ -37,7 +37,7 @@ git config --global user.email "tomas.weis@ntig.se"
 2. Starta exe-filen så kör installationen sig självt.
 3. När installationen är klar, logga in med ditt GitHub-konto på GitHub Desktop.
 4. Du behöver nu skaffa dig ett så kallat repo, som är stället där alla din filer och kod hamnar.
-4. I GitHub Desktop navigera nu till inställnigar <br>
+4. I GitHub Desktop navigera nu till inställningar <br>
     *File->Options->Advanced* <br>
     och välj Git Bash i drop-down fältet för Shell.<br>
 ![img](https://i.gyazo.com/5c14f9ab90a9a185c68e1fc4119a700c.png)
