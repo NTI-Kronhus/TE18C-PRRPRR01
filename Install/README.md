@@ -48,5 +48,14 @@ git config --global user.email "tomas.weis@ntig.se"
     och välj Git Bash i drop-down fältet för Shell.<br>
 ![img](https://gyazo.com/d8e466e57d2a41b1ba39a6d74d2369fe.png)
 
-7. För att det ska fungera felfritt måste du starta om din dator.
-6. Klart! Nu kan du använda Git och GitHub Desktop på din dator.
+7. Tryck på Publish Repository för att ditt repo ska komma upp på GitHub online.
+
+![img](https://gyazo.com/c37f79ef51ff1f14b3b2d9249702ca4f.png)
+
+8. VIKTIGT: Bocka ur "Keep this code private"!
+
+![img](https://gyazo.com/5c02447a718331d460b89284af45e8dc.png)
+
+9. För att det ska fungera felfritt måste du starta om din dator.
+
+10. Klart! Nu kan du använda Git och GitHub Desktop på din dator.
