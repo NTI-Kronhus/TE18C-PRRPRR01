@@ -12,6 +12,10 @@ public class Basics {
 		
 		System.out.println(str);
 		
+		String str2 = input.nextLine();
+		
+		System.out.println(str2);
+		
 	}
 	
 	
