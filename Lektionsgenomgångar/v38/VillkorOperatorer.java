@@ -52,7 +52,7 @@ public class VillkorOperatorer {
 		
 		if(x > y) {
 			
-			System.out.println("x är störr än y");
+			System.out.println("x är större än y");
 		} else {
 			System.out.println("x är mindre än y");
 		}
