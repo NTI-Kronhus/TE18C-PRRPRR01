@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="v37"/>
 	<classpathentry kind="src" path="v38"/>
+	<classpathentry kind="src" path="v39"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
