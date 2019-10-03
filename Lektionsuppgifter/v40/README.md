@@ -25,7 +25,7 @@
   Timmar ? 2
   Minuter ? 15
   Sekunder ? 40
-  Totalt sekunder: 8740
+  Totalt sekunder: 8140
   ```
 9. Skriv ett program som skriver ut gångertabellen från 1-10.
   ```
