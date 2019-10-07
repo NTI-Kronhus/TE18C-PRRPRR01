@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="v37"/>
-	<classpathentry kind="src" path="v38"/>
-	<classpathentry kind="src" path="v39"/>
+	<classpathentry kind="src" path="v40_Facit"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="v40"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
