@@ -5,15 +5,13 @@ public class Facit_v43 {
 
 		//Test-exempel:
 		
-		volume(5.15);
+		System.out.println(volume(5.15));
 		
 		System.out.println(reverse("Hej svej!"));
 		
 		System.out.println(count("Hej svej!", 'e'));
 		
-		System.out.println(sjorovare("Hej JaoK"));
-		
-		System.out.println();
+		System.out.println(sjorovare("Hej JaoK!"));
 		
 	}
 
@@ -97,8 +95,11 @@ public class Facit_v43 {
 			sjorovarStr += str.charAt(i);
 			
 			char c = lowerCaseStr.charAt(i);
-			if(!(c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || 
-				 c == 'y' || c == 'å' || c == 'ä' || c == 'ö' || c == ' ')) {
+			if(c == 'b' || c == 'c' || c == 'd' || c == 'f' || 
+				c == 'g' || c == 'h' || c == 'j' || c == 'k' || 
+				c == 'l' || c == 'm' || c == 'n' || c == 'p' || 
+				c == 'q' || c == 'r' || c == 's' || c == 't' || 
+				c == 'v' || c == 'x' || c == 'z') {
 				sjorovarStr += ("o" + c);
 			} 
 		}
