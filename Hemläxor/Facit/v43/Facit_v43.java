@@ -27,7 +27,7 @@ public class Facit_v43 {
 	 * @return The volume of the sphere.
 	 */
 	public static double volume(double radius) {
-		return (4 * Math.pow(radius, 3))/3;
+		return (4 * Math.pow(radius, 3) * Math.PI)/3;
 	}
 	
 	
