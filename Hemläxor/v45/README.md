@@ -11,7 +11,7 @@ Ni ska **skapa ett antal metoder** som räknar ut olika saker baserat på de vä
 
 Till er hjälp får ni ett antal enums, med ett fåtal fördefinierade substanser (vätskor, gaser, fasta material). Det ni ska göra här är att **lägga till egna substanser** så att ni i slutändan har **minst 5 av varje**. (5 gaser, 5 vätskor, 5 fasta material.)
 
-För att använda er av dessa enums laddar ni ned filerna som finns länkade nedan, och lägger in dem i samma mapp i Eclipse som filen där du skriver dina metoder.<<<
+För att använda er av dessa enums laddar ni ned filerna som finns länkade nedan, och lägger in dem i samma mapp i Eclipse som filen där du skriver dina metoder.
 
 Exempel på hur ni använder er av enums:
 ```java
@@ -45,7 +45,7 @@ I dina tabeller ska det minst finnas:
 * Totalt 5 olika [material](https://github.com/NTIGBG/TE17D-PRRPRR01/blob/master/v42/enums/SolidTable.java).
 
 ### Metoder som skall finnas med:
-Dina metoder ska vara kommenterade med vanliga kommentarer ELLER Javadoc. <br><br>
+Dina metoder ska vara kommenterade med vanliga kommentarer (och Javadoc om du siktar på högre betyg). <br><br>
 1. En metod som gör om grader fahrenheit till grader celcius.
 ```java
 double fahrenheitToCelsius(double fahrenheit)
@@ -170,13 +170,13 @@ velocityToHeight(9.82) => 4.91
 
 ### Frågor som skall besvaras med hjälp av era metoder:
 Dessa ska besvaras i er main-metod.
-1. Hur mycket väger 80 dm^3 järn?
-2. Hur långt hinner Tomas om han löper med medelhastigheten 2.8 m/s i 60 minuter?
-3. Hur mycket energi krävs för att värma upp 5 liter vatten?
-4. Hur stort är det totala trycket 100 meter under havsytan?
-5. Tomas som är 180cm lång kastar upp en boll med massan 200 gram i luften så den får starthastigheten 50 km/h. Hur högt kommer bollen?
-6. En bil med massan 740kg accelererar med konstant acceleration från 0-100 på 4.4 sekunder. Hur stor effekt har bilens motor uppnått?
-7. En studsboll släpps från 10 meters höjd och varje gång den nuddar marken tappar den 1% av sin energi. Hur många gånger kommer bollen studsa i marken innan den inte studsar hörge än 0.5 meter?
+1. Hur mycket väger 60 dm^3 järn?
+2. Hur långt hinner Tomas om han löper med medelhastigheten 2.7 m/s i 50 minuter?
+3. Hur mycket energi krävs för att värma upp 4 liter vatten?
+4. Hur stort är det totala trycket 75 meter under havsytan?
+5. Tomas som är 180cm lång kastar upp en boll med massan 250 gram i luften så den får starthastigheten 60 km/h. Hur högt kommer bollen?
+6. En bil med massan 735kg accelererar med konstant acceleration från 0-100 på 4.8 sekunder. Hur stor effekt har bilens motor uppnått?
+7. En studsboll släpps från 12 meters höjd och varje gång den nuddar marken tappar den 1% av sin energi. Hur många gånger kommer bollen studsa i marken innan den inte studsar hörge än 0.5 meter?
 8. Formulera en egen uppgift man kan lösa med hjälp av dina metoder.
 9. Formulera en egen uppgift man kan lösa med hjälp av dina metoder.
 10. Formulera en egen uppgift man kan lösa med hjälp av dina metoder.
