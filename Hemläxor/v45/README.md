@@ -40,9 +40,9 @@ g_swe - Tyngdaccelerationen för Sverige.
 
 ### Gaser, västkor och material
 I dina tabeller ska det minst finnas:
-* Totalt 5 olika [gaser](https://github.com/NTIGBG/TE17D-PRRPRR01/blob/master/v42/enums/GasTable.java). 
-* Totalt 5 olika [vätskor](https://github.com/NTIGBG/TE17D-PRRPRR01/blob/master/v42/enums/FluidTable.java).
-* Totalt 5 olika [material](https://github.com/NTIGBG/TE17D-PRRPRR01/blob/master/v42/enums/SolidTable.java).
+* Totalt 5 olika [gaser](https://github.com/NTI-Kronhus/TE18C-PRRPRR01/blob/master/Heml%C3%A4xor/v45/enums/GasTable.java). 
+* Totalt 5 olika [vätskor](https://github.com/NTI-Kronhus/TE18C-PRRPRR01/blob/master/Heml%C3%A4xor/v45/enums/FluidTable.java).
+* Totalt 5 olika [material](https://github.com/NTI-Kronhus/TE18C-PRRPRR01/blob/master/Heml%C3%A4xor/v45/enums/SolidTable.java).
 
 ### Metoder som skall finnas med:
 Dina metoder ska vara kommenterade med vanliga kommentarer (och Javadoc om du siktar på högre betyg). <br><br>
