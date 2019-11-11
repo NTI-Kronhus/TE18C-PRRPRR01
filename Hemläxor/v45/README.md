@@ -15,7 +15,7 @@ För att använda er av dessa enums laddar ni ned filerna som finns länkade ned
 
 Exempel på hur ni använder er av enums:
 ```java
-static double G = 9.82;
+static double g_swe = 9.82;
 
 public static void main(String[] args) {
 
@@ -24,7 +24,7 @@ public static void main(String[] args) {
 }
 
 public static double fluidPressure(FluidTable fluid, double deep) {
-	double pressure = fluid.density * G * deep;
+	double pressure = fluid.density * g_swe * deep;
 	return pressure;
 }
 ```
@@ -172,7 +172,7 @@ velocityToHeight(9.82) => 4.91
 Dessa ska besvaras i er main-metod.
 1. Hur mycket väger 60 dm^3 järn?
 2. Hur långt hinner Tomas om han löper med medelhastigheten 2.7 m/s i 50 minuter?
-3. Hur mycket energi krävs för att värma upp 4 liter vatten till kokpunkten?
+3. Hur mycket energi krävs för att värma upp 4 liter vatten från rumstemperatur (22 grader) till kokpunkten?
 4. Hur stort är det totala trycket 75 meter under havsytan?
 5. Tomas som är 180cm lång kastar upp en boll med massan 250 gram i luften så den får starthastigheten 60 km/h. Hur högt kommer bollen?
 6. En bil med massan 735kg accelererar med konstant acceleration från 0-100 på 4.8 sekunder. Hur stor effekt har bilens motor uppnått?
