@@ -176,7 +176,7 @@ Dessa ska besvaras i er main-metod.
 4. Hur stort är det totala trycket 75 meter under havsytan?
 5. Tomas som är 180cm lång kastar upp en boll med massan 250 gram i luften så den får starthastigheten 60 km/h. Hur högt kommer bollen?
 6. En bil med massan 735kg accelererar med konstant acceleration från 0-100 på 4.8 sekunder. Hur stor effekt har bilens motor uppnått?
-7. En studsboll släpps från 12 meters höjd och varje gång den nuddar marken tappar den 1% av sin energi. Hur många gånger kommer bollen studsa i marken innan den inte studsar hörge än 0.5 meter?
+7. En studsboll som väger 1kg släpps från 12 meters höjd och varje gång den nuddar marken tappar den 1% av sin energi. Hur många gånger kommer bollen studsa i marken innan den inte studsar hörge än 0.5 meter?
 8. Formulera en egen uppgift man kan lösa med hjälp av dina metoder.
 9. Formulera en egen uppgift man kan lösa med hjälp av dina metoder.
 10. Formulera en egen uppgift man kan lösa med hjälp av dina metoder.
