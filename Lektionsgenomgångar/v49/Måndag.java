@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class Måndag {
 
@@ -37,30 +38,20 @@ public class Måndag {
 		//eller Strings
 		String[] sarr = {"Are", "Fabian", "Jeffrey", "Hugo"};
 		
-		//Söker genom listan med namn och skriver ut om det är Hugo eller inte
+		//Söker genom listan med namn och skriver ut om Hugo finns med eller inte
+		boolean isHugo = false;
+		
 		for (String name : sarr) {
 			if(name == "Hugo") {
-				System.out.println("Detta är hugo");
-			} else {
-				System.out.println("Detta är någon annan");
+				isHugo = true;
 			}
 		}
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		if(isHugo) {
+			System.out.println("Hugo fanns där");
+		}else {
+			System.out.println("Hugo fanns inte där");
+		}
 		
 		
 	}
