@@ -143,14 +143,14 @@ Metoder inom programmering kan liknas vid funktioner i matematiken. De tar (ofta
 På samma sätt är metoder en stor hjälp inom programmering. Metoder är alltså ett verktyg för att spara tid, minska upprepning av kod och göra det lättare för dig som programmerare att programmera. 
 
 ##### Syntax:
-I Programmering 1 räcker det att alla metoder börjar med "public static", i Programmering 2 kommer ni lära er när och varför ni ska ändra på dessa nyckelord. Efter "public static" skriver ni vilken datatyp som ska returneras, alltså skickas tillbaks dit ni anropade metoden. Ska inget värde returneras skriver ni "void". Därefter ger ni metoden ett namn, och eventuell indata innanför en parentes. Alltså:
+I Programmering 1 räcker det att alla metoder börjar med "public static", i Programmering 2 kommer ni lära er när och varför ni ska ändra på dessa nyckelord. Efter "public static" skriver ni vilken datatyp som ska returneras, alltså skickas tillbaks dit ni anropade metoden. Ska inget värde returneras skriver ni "void". Därefter ger ni metoden ett namn, och eventuell indata innanför en parentes. Alltså: <br>
 
-public static *datatyp* *metodNamn*(*datatyp1* *variabelnamn1*, *datatyp2* *variabelnamn2*){
-    //KOD
-}
+public static *datatyp* *metodNamn*(*datatyp1* *variabelnamn1*, *datatyp2* *variabelnamn2*){<br>
+    //KOD<br>
+}<br>
 
-För att anropa (köra) metoden skriver ni variabelnamnet och eventuell indata innanför parentes. Alltså:
-*metodNamn*(*datatyp1* *variabelnamn1*, *datatyp2* *variabelnamn2*);
+För att anropa (köra) metoden skriver ni variabelnamnet och eventuell indata innanför parentes. Alltså:<br>
+*metodNamn*(*datatyp1* *variabelnamn1*, *datatyp2* *variabelnamn2*);<br>
 
 Syntaxexempel:
 ```java
@@ -211,6 +211,11 @@ public static boolean ageRestrictionCheck(int playerAge){
     }
 }
 ```
+
+# Arrays
+En array är en lista fylld med olika värden. En array kan bara innehålla värden av *en specifik datatyp*, och längden på arrayen *måste fördefinieras*.
+
+Klicka [HÄR](https://github.com/NTI-Kronhus/TE18C-PRRPRR01/blob/master/Lektionsgenomg%C3%A5ngar/v49/M%C3%A5ndag.java) för att se hur du använder dig av arrays.
 
 # Övrigt
 
