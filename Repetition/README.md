@@ -33,7 +33,7 @@ Operator | Räknesätt
 \+\+ | öka med 1
 \-\- | minska med 1
 
-## Jämförelse operatorer
+## Jämförelseoperatorer
 Operator | Jämförelse
 ---------|-----------
 < | mindre än 
@@ -137,7 +137,80 @@ while(!solution){
 }
 ```
 
+# Metoder
+Metoder inom programmering kan liknas vid funktioner i matematiken. De tar (ofta) in ett värde, utför någonting (exempelvis en beräkning), och skickar (ofta) tillbaks ett värde. På en miniräknare har ni en mängd funktioner, som t.ex. sin(x), exponentiering eller grafritning. Utan dessa funktioner hade det varit svårt att över huvud taget ha användning för en miniräknare, då du som använder miniräknaren t.ex. måste kunna utföra sin-funktionens beräkningar själv, skriva x<sub>1</sub> * x<sub>2</sub> ... * x<sub>50</sub> istället för x<sup>50</sup>, eller rita grafer för hand. 
 
+På samma sätt är metoder en stor hjälp inom programmering. Metoder är alltså ett verktyg för att spara tid, minska upprepning av kod och göra det lättare för dig som programmerare att programmera. 
+
+##### Syntax:
+I Programmering 1 räcker det att alla metoder börjar med "public static", i Programmering 2 kommer ni lära er när och varför ni ska ändra på dessa nyckelord. Efter "public static" skriver ni vilken datatyp som ska returneras, alltså skickas tillbaks dit ni anropade metoden. Ska inget värde returneras skriver ni "void". Därefter ger ni metoden ett namn, och eventuell indata innanför en parentes. Alltså:
+
+public static *datatyp* *metodNamn*(*datatyp1* *variabelnamn1*, *datatyp2* *variabelnamn2*){
+    //KOD
+}
+
+För att anropa (köra) metoden skriver ni variabelnamnet och eventuell indata innanför parentes. Alltså:
+*metodNamn*(*datatyp1* *variabelnamn1*, *datatyp2* *variabelnamn2*);
+
+Syntaxexempel:
+```java
+public static void main(String[] args){
+    //Exempel på ett metod-anrop: 
+    methodOne();
+    
+    //exempel på ett metod-anrop med indata, som sparar return-värdet i en variabel
+    int dummyArgument = 5;
+    int dummyVariable = methodTwo(5)
+}
+
+//Exempel på metod som inte returnerar eller tar in något värde.
+public static void methodOne(){
+    //KOD 
+}
+
+//Exempel på metod som tar in en int och returnerar en int.
+public static int methodTwo(int dummyParameter){
+    //KOD
+    return intValue;
+}
+```
+
+##### Exempel:
+Exempel på kod som använder sig av metoder för att hälsa en spelare välkommen, och sedan kolla om spelaren uppfyller ålderskraven.
+```java
+public static void main(String[] args){
+   Scanner in = new Scanner(System.IN);
+   
+   System.out.println("Please enter your name:");
+   String name = in.nextLine();
+   greetThePlayer(name); //Anropar metoden och skickar in namnet.
+   
+   System.out.println("Please enter your age:");
+   int age = in.nextInt();
+   //Anropar metoden, skickar in åldern och sparar return-värdet i en ny variabel.
+   boolean isAllowedToPlay = ageRestrictionCheck(age); 
+   
+   if(isAllowedToPlay){
+       startGame();
+   } else {
+       exitGame();
+   }
+}
+
+//En metod som hälsar spelaren välkommen.
+public static void greetThePlayer(String playerName){
+    System.out.println("Hello " + playerName + ", welcome to the best game ever!");
+}
+
+//En metod som kollar om personen får spela spelet eller inte.
+public static boolean ageRestrictionCheck(int playerAge){
+    if(playerAge > 18){
+        return true;
+    } else {
+        return false;
+    }
+}
+```
 
 # Övrigt
 
