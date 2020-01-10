@@ -12,7 +12,7 @@ Uppgifter:
 4. Skriv ett program som läser in en följd av tal och multiplicerar ihop dem. <br>
   Inläsningen ska avbrytas då produktens belopp överstigit 100 000 eller då 10 st tal skrivits in. <br>
   Skriv sedan ut produkten och antalet inlästa tal.
-5. Skriv ett program som beräknar summan av alla tal under 1000 som är jämnt delbara med ett tal som läses in från konsolen. <br> _ Exempelvis:  input = 7 -> output = 7, 14, 21, 28 ... 994_
+5. Skriv ett program som beräknar summan av alla tal under 1000 som är jämnt delbara med ett tal som läses in från konsolen. <br> _Exempelvis:  input = 7 -> output = 7, 14, 21, 28 ... 994_
 6. Skriv ett program som gör en kvadrat av dollartecken. <br>
   Användaren ska mata in hur många dollartecken som sidan ska ha och sedan ska en kvadrat ritas ut. Exempel:
   ```
