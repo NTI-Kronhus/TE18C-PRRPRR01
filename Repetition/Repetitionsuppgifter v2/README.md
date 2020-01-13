@@ -8,7 +8,7 @@ Uppgifter:
 1. Skriv ett program som läser in två heltal från konsolen och skriver ut det största.
 2. Skriv ett program som läser in ett heltal från konsolen och beräknar talets siffersumma. <br> 
   _Talet 1066 har siffersumman 1+0+6+6=13._
-3. Skriv ett program som 
+3. Skriv ett program som läser in en textsträng och skriver ut den baklänges.
 4. Skriv ett program som läser in en följd av tal och multiplicerar ihop dem. <br>
   Inläsningen ska avbrytas då produktens belopp överstigit 100 000 eller då 10 st tal skrivits in. <br>
   Skriv sedan ut produkten och antalet inlästa tal.
@@ -53,3 +53,5 @@ x x x x
 11. Samma som uppgift 10, men med namn istället för heltal.
 
 12. Skriv ett program som sorterar en lista med heltal i storleksordning (minst -> störst). Förslagsvis kan ni testa ert program antingen genom att slumpa en lista, eller genom att ta in x antal heltal via konsolen.
+
+13. Extrauppgift: Ändra alla era program som läser in något från konsolen till att de läser in från _en .txt-fil_.
