@@ -212,6 +212,31 @@ public static boolean ageRestrictionCheck(int playerAge){
 }
 ```
 
+# JavaDoc
+
+JavaDoc används för att kommentera sina metoder så att alla som använder din kod enkelt och smidigt kan se vad metoderna gör för något.
+<br>
+JavaDoc indikeras av ```/**``` och ```*/``` ovanför en metods deklaration.
+<br> 
+Exempel:
+```java
+/**
+ * Denna metod ger tillbaka den minsta av två heltal.
+ *
+ * @param a ett heltal
+ * @param b ett heltal
+ * @return den minsta av a och b
+ */
+public static int min(int a, int b){
+    if(a < b){
+        return a;
+    }
+    else{
+        return b;
+    }
+}
+```
+
 # Arrays
 En array är en lista fylld med olika värden. En array kan bara innehålla värden av *en specifik datatyp*, och längden på arrayen *måste fördefinieras*.
 
