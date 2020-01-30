@@ -12,6 +12,6 @@ Nedan finner du ett gäng Kattis-uppgifter du kan göra för att få bonuspoäng
 
 Glöm inte att kommentera din kod! Ni ska alltid vara redo att förklara er kod om jag kräver det.<br>
 
-Om man vill ha bonuspoäng så ska man ha skickat in dessa uppgifter (bifoga era javafiler) till min [mail](mailto:are.ehnberg@ntig.se) senast måndag 3/2! <br>
+Om man vill ha bonuspoäng så ska man ha skickat in dessa uppgifter (bifoga era javafiler) till min [mail](mailto:are.ehnberg@ntig.se) senast onsdag 5/2, 23:59! <br>
 
 Tips: Rätta din kod på Kattis innan du skickar in den, så vet du om du har gjort rätt eller inte. Kod som inte godkänns i Kattis ger inga bonuspoäng.
