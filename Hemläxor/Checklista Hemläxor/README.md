@@ -20,7 +20,6 @@ Detta är **obligatoriskt** för **högre betyg**:
 * Många, rimliga commits. <br>
 * Konsekvent typning av variabel- och metodnamn. <br>
 * Noggranna och utförliga kommentarer. <br>
-* Noggrann och utfördlig Javadokumentation för metoder. <br>
 
 ## Övrigt
 
