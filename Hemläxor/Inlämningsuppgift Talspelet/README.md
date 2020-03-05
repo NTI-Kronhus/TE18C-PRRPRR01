@@ -12,6 +12,7 @@ Uppgiften ska göras **enskilt** och man får vara beredd att i detalj förklara
 * Ett program som fungerar, med följande funktionalitet:
     * Att spelaren får gissa på ett tal tills hen hittar det rätta talet, med ledtrådar efter varje gissning.
     * Tydliga instruktioner till användaren om hur spelet går till.
+* En utvärdering enligt [dessa instruktioner](https://github.com/NTI-Kronhus/TE18C-PRRPRR01/tree/master/Heml%C3%A4xor/Inl%C3%A4mningsuppgift%20Talspelet/Utv%C3%A4rdering).
 * Att du följer denna [checklista för inlämningar](https://github.com/NTI-Kronhus/TE18C-PRRPRR01/tree/master/Heml%C3%A4xor/Checklista%20Heml%C3%A4xor).
 
 ###### För att nå högre betyg ska även allt eller vissa delar av följande uppfyllas:
