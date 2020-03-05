@@ -34,6 +34,6 @@ Uppgiften ska göras **enskilt** och man får vara beredd att i detalj förklara
 * Att spelet ska kunna köras utan att krascha, hur ni implementerar det är upp till er.
 
 
-Efter att koden är klar och testad kommer alla få möjlighet att utvärdera varandras kod.
+Efter att koden är klar och testad kommer alla få möjlighet att utvärdera sin kod på en lektion.
 
-Inlämningsdeadline: TBA
+Inlämningsdeadline: 22 mars, 23:59. (Färdig planering, kod och utvärdering)
