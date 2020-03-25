@@ -30,7 +30,7 @@ Exempel på flödesschema:
 
 Utöver händelseförloppet ska du även planera i detalj hur du ska *strukturera* din kod. Använd punkterna nedan som riktlinje, du får svara på dessa i punktform i din planering.
 
-Skriv **DETALJERAT** - För variabler och metoder vill jag ha med exakt **vilka** variabler och metoder ni tänkt ha med i er kod, med **namn, datatyp, returtyp, etc**. 
+Skriv **DETALJERAT** - För variabler och metoder vill jag ha med exakt *vilka* variabler och metoder ni tänkt ha med i er kod, med *namn, datatyp, returtyp, etc*. 
 
 **MOTIVERA** också utförligt **varför** du tänkt använda dig av just en for-loop till ett visst ändamål, eller varför just den variabeln ska vara åtkomlig i hela klassen, osv.
 
