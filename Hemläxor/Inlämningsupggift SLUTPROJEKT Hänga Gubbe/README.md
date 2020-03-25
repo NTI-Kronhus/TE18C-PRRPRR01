@@ -6,7 +6,7 @@ Innan ni får börja koda över huvud taget måste ni göra en **planering**. Pl
 
 Uppgiften ska göras **enskilt** och man får vara beredd att i detalj förklara muntligt hur koden fungerar. Kod utan kommentarer och godkänd planering kommer **inte** att godkännas. Man får självklart diskutera uppgiften med varandra och fråga om hjälp om man fastnar men det är **INTE** tillåtet att kopiera varandras kod. Plagiat ger automatiskt underkänt i uppgiften, och all kod utan kommentarer räknas automatiskt som plagiat.
 
-##### Följande basfunktionalitet måste varje spel innehålla för att du ska få godkänt:
+#### Följande basfunktionalitet måste varje spel innehålla för att du ska få godkänt:
 
 * En godkänd planering enligt [dessa instruktioner](https://github.com/NTI-Kronhus/TE18C-PRRPRR01/tree/master/Heml%C3%A4xor/Inl%C3%A4mningsupggift%20SLUTPROJEKT%20H%C3%A4nga%20Gubbe/Planering).
 * Ett program som fungerar, med följande funktionalitet:
@@ -18,7 +18,7 @@ Uppgiften ska göras **enskilt** och man får vara beredd att i detalj förklara
 
 *För bara godkänt krävs det alltså inte att du har någon visuell representation av en gubbe som hängs, utan det räcker med att du talar om hur många gissningar spelaren har kvar.*
 
-##### För att nå högre betyg ska även allt eller vissa delar av följande uppfyllas:
+#### För att nå högre betyg ska även allt eller vissa delar av följande uppfyllas:
 
 * Att du i din kod använder dig av metoder. (Obligatoriskt för att nå högre betyg än E) Hur väl ni använder och motiverar er användning av metoder påverkar hur högt betyg ni får på uppgiften.
 
@@ -40,6 +40,6 @@ Uppgiften ska göras **enskilt** och man får vara beredd att i detalj förklara
     * Att du har en textbaserad visuell representation av en gubbe som hängs, kanske som i [detta exempel](https://gist.github.com/chrishorton/8510732aa9a80a03c829b09f12e20d9c). Detta skrivs då ut i konsolen.
     * *(Svårare)* Att du använder dig av JavaFX eller på något annat sätt gör en grafisk visuell representation, antingen med bilder eller att du ritar upp gubben med former osv. (Jag är inte superhaj på grafik när det gäller programmering längre, så här får ni till största del ta hjälp av Niklas eller internet.) Jag rekommenderar att ni försöker göra detta om ni tror att ni klarar av det, eftersom ni kommer hålla på med grafik i Programmering 2 senare, och detta kan ge er ett försprång där.
     
-##### Deadline
+#### Deadline
 
 Inlämningsdeadline: fredag 15 maj, 23:59. (Färdig planering, kod och utvärdering.)
