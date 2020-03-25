@@ -35,6 +35,7 @@ Skriv **DETALJERAT** - För variabler och metoder vill jag ha med exakt *vilka* 
 **MOTIVERA** också utförligt **varför** du tänkt använda dig av just en for-loop till ett visst ändamål, eller varför just den variabeln ska vara åtkomlig i hela klassen, osv.
 
 ###### Frågor att besvara
+* Vilken *extra funktionalitet* har du tänkt implementera?
 * Vilka variabler behöver du och till vilket syfte? Här vill jag ha med variabelnamn, datatyp och en förklaring på vad variabeln är till för - på varje variabel.
 * Vilka olika konstrollstrukturer behövs och till vilket syfte? (Loopar, villkor, etc.) Var så detaljerad som möjligt.
 * Vilken funktionalitet kan (och borde) du skapa metoder av? Här vill jag ha metodnamn, returtyp, eventuella parametrar samt vad metoden ska göra. 
