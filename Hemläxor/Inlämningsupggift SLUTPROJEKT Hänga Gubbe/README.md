@@ -13,7 +13,7 @@ Uppgiften ska göras **enskilt** och man får vara beredd att i detalj förklara
     * Tydliga instruktioner till användaren om hur spelet går till.
     * Att spelaren får gissa på en bokstav i taget, tills hen gissat rätt på alla bokstäver i det rätta ordet. (Spelet ska *inte* differentiera mellan stora och små bokstäver)
     * Att spelaren får någon typ av feedback efter varje gissning, med antal **kvarvarande gissningar** samt en **representation av ordet** (med bokstäver man gissat rätt på) på detta sätt: **_r__gr_mm_r_ng**
-* En utvärdering enligt [dessa instruktioner]().
+* En utvärdering enligt [dessa instruktioner](https://github.com/NTI-Kronhus/TE18C-PRRPRR01/tree/master/Heml%C3%A4xor/Inl%C3%A4mningsupggift%20SLUTPROJEKT%20H%C3%A4nga%20Gubbe/Utv%C3%A4rdering).
 * Att du följer denna [checklista för inlämningar](https://github.com/NTI-Kronhus/TE18C-PRRPRR01/tree/master/Heml%C3%A4xor/Checklista%20Heml%C3%A4xor).
 
 *För bara godkänt krävs det alltså inte att du har någon visuell representation av en gubbe som hängs, utan det räcker med att du talar om hur många gissningar spelaren har kvar.*
