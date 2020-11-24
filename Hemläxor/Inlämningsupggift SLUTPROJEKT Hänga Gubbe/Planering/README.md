@@ -38,5 +38,5 @@ Skriv **DETALJERAT** - För variabler och metoder vill jag ha med exakt *vilka* 
 * Vilken *extra funktionalitet* har du tänkt implementera?
 * Vilka variabler behöver du och till vilket syfte? Här vill jag ha med variabelnamn, datatyp och en förklaring på vad variabeln är till för - på varje variabel.
 * Vilka olika konstrollstrukturer behövs och till vilket syfte? (Loopar, villkor, etc.) Var så detaljerad som möjligt.
-* Vilken funktionalitet kan (och borde) du skapa metoder av? Här vill jag ha metodnamn, returtyp, eventuella parametrar samt vad metoden ska göra. 
+* Vilken funktionalitet kan (och borde) du skapa funktioner av? Här vill jag ha funktionsnamn, returtyp, eventuella parametrar samt vad funktionen ska göra. 
 * Vilka variabler behöver vara åtkomliga inom hela klassen?
